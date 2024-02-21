@@ -1,0 +1,17 @@
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/controller/GoalController.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/entity/Expense.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/utils/ExtractJWT.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/requestmodels/AddGoalRequest.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/config/DataRestConfig.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/utils/ErrorHandler.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/config/SecurityConfiguration.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/entity/Goal.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/dao/GoalRepository.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/requestmodels/AddExpenseRequest.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/DemoApplication.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/requestmodels/UpdateGoalRequest.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/requestmodels/UpdateExpenseRequest.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/service/GoalService.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/dao/ExpenseRepository.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/service/ExpenseService.java
+/Users/gerriesoh/Desktop/finance-app/backend/src/main/java/com/example/demo/controller/ExpenseController.java
